@@ -55,10 +55,10 @@ public class App {
 
     private static void viewOperation() {
         System.out.println("make your selection:");
-        System.out.println("1. + addition");
-        System.out.println("2. - subtraction");
-        System.out.println("3. / division");
-        System.out.println("4. * multiplication");
+        System.out.println(" + addition");
+        System.out.println(" - subtraction");
+        System.out.println(" / division");
+        System.out.println(" * multiplication");
     }
 
     private static String generateOperation(Scanner scanner) {
